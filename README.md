@@ -8,4 +8,4 @@ Finally, I build an algorithm that uses data collected from wearable devices to 
 
 
 The following are folders in this repository:
-1. 2D_Medical_Imaging[a relative link](2D_Medical_Imaging) : Applying AI to 2D Medical Imaging Data
+1. [2D_Medical_Imaging](2D_Medical_Imaging) : Applying AI to 2D Medical Imaging Data
